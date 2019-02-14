@@ -9,7 +9,7 @@ public class RectTriangle extends Shape {
 
 	@Override
 	public double getArea() {
-		System.out.println("");
+		System.out.println("ㅠㅠ");
 		return 0.;
 	}
 
